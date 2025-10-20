@@ -8,3 +8,6 @@ def max(n1, n2, n3)
     end
     end
     puts max(21,17,19)
+
+
+ihybyub
